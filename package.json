@@ -1,0 +1,20 @@
+{
+  "name": "imagetiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1 -p 8081"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openseadragon": "^2.4.1"
+  },
+  "devDependencies": {
+    "browserify": "^16.5.0",
+    "http-server": "^0.11.1",
+    "watchify": "^3.11.1"
+  }
+}
