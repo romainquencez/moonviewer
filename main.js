@@ -8,6 +8,5 @@ var viewer = OpenSeadragon({
     minZoomLevel: 1,
     defaultZoomLevel: 1,
     autoHideControls: false,
-    tileSources: ["moon/info.json"],
-    debugMode: true
+    tileSources: ["moon/info.json"]
 });
