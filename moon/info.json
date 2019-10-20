@@ -1,0 +1,162 @@
+{
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "http://127.0.0.1:8081/191020_174150",
+    "protocol": "http://iiif.io/api/image",
+    "width": 27360,
+    "height": 13680,
+    "tile_width": 1024,
+    "tile_height": 1024,
+    "profile": [
+        "http://iiif.io/api/image/2/level0.json",
+        {
+            "qualities": [
+                "default"
+            ],
+            "formats": [
+                "jpg"
+            ]
+        }
+    ],
+    "sizes": [
+        {
+            "width": 27360,
+            "height": 13680
+        },
+        {
+            "width": 13680,
+            "height": 6840
+        },
+        {
+            "width": 6840,
+            "height": 3420
+        },
+        {
+            "width": 3420,
+            "height": 1710
+        },
+        {
+            "width": 1710,
+            "height": 855
+        },
+        {
+            "width": 855,
+            "height": 427
+        },
+        {
+            "width": 427,
+            "height": 213
+        },
+        {
+            "width": 213,
+            "height": 106
+        },
+        {
+            "width": 106,
+            "height": 53
+        },
+        {
+            "width": 53,
+            "height": 26
+        },
+        {
+            "width": 26,
+            "height": 13
+        },
+        {
+            "width": 13,
+            "height": 6
+        },
+        {
+            "width": 6,
+            "height": 3
+        },
+        {
+            "width": 3,
+            "height": 1
+        },
+        {
+            "width": 1,
+            "height": 0
+        },
+        {
+            "width": 0,
+            "height": 0
+        },
+        {
+            "width": 0,
+            "height": 0
+        },
+        {
+            "width": 0,
+            "height": 0
+        },
+        {
+            "width": 0,
+            "height": 0
+        },
+        {
+            "width": 0,
+            "height": 0
+        },
+        {
+            "width": 0,
+            "height": 0
+        },
+        {
+            "width": 0,
+            "height": 0
+        },
+        {
+            "width": 0,
+            "height": 0
+        },
+        {
+            "width": 0,
+            "height": 0
+        },
+        {
+            "width": 0,
+            "height": 0
+        },
+        {
+            "width": 0,
+            "height": 0
+        },
+        {
+            "width": 0,
+            "height": 0
+        }
+    ],
+    "tiles": {
+        "width": 1024,
+        "scaleFactors": [
+            1,
+            2,
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512,
+            1024,
+            2048,
+            4096,
+            8192,
+            16384,
+            32768,
+            65536,
+            131072,
+            262144,
+            524288,
+            1048576,
+            2097152,
+            4194304,
+            8388608,
+            16777216,
+            33554432,
+            67108864
+        ]
+    }
+}
