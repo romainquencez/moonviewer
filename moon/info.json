@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/image/2/context.json",
-    "@id": "http://127.0.0.1:8081/191020_174150",
+    "@id": "http://moon.romainquencez.fr/moon/",
     "protocol": "http://iiif.io/api/image",
     "width": 27360,
     "height": 13680,
